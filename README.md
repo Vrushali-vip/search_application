@@ -3,7 +3,7 @@
 Brief description of the project.
   The search application project appears to be a web application developed using React.js. Here's a brief overview based on the provided information:
 
-Objective: The objective of the project seems to be building a search application that allows users to search for countries based on their currency codes. Users can input a currency code (e.g., INR, EUR) into the search bar, and the application will filter and display countries that use the specified currency.
+Objective: The objective of the project is to be building a search application that allows users to search for countries based on their currency codes. Users can input a currency code (e.g., INR, EUR) into the search bar, and the application will filter and display countries that use the specified currency.
 
 Technologies: The project utilizes the React.js library for building user interfaces. It may also include additional libraries or tools such as react-icons for displaying icons and potentially other npm packages for managing state, handling routing, or styling components.
 
