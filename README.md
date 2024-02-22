@@ -1,5 +1,5 @@
 # Project Name
-## Search Application
+## Search Application using currency code
 Brief description of the project.
   The search application project appears to be a web application developed using React.js. Here's a brief overview:
 
