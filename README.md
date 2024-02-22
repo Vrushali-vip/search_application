@@ -23,14 +23,58 @@ Overall, the project aims to provide a user-friendly interface for searching and
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
+- [Screenshots](#screenshots)
 - [License](#license)
 
 ## Installation
 
-Provide instructions on how to install the project, including any dependencies that need to be installed.
+Instructions on how to install the project, including any dependencies that need to be installed.
 
 ```bash
-$ git clone https://github.com/your_username/project_name.git
-$ cd project_name
-$ npm install  # or yarn install
+$ https://github.com/Vrushali-vip/search_application.git
+$ cd search_application
+$ npm start  # or yarn start
+
+```
+## Usage
+
+**Search by Currency Code:**
+
+**1. Input a currency code** (e.g., USD, EUR, INR) into the search bar.
+Press Enter or click the search icon.
+The application will filter and display countries that use the specified currency.
+
+**2. View Country Details:**
+Once the search is performed, the application will display a list of countries that match the entered currency code.
+Each country entry includes:
+Country name
+Capital
+Currency
+Currency symbol
+Clear Search:
+
+**3. To clear the search** and view all countries, simply delete the currency code from the search bar.
+```
+
+```
+## Features
+**1. Search by Currency Code:** Users can input a currency code (e.g., INR, EUR) into the search bar to filter countries based on the entered currency code.
+
+**2. Dynamic Filtering:** As the user types in the search bar, the application dynamically filters the list of countries based on the entered currency code, displaying only the countries that match the search criteria.
+
+**3. Display Country Information:** For each country matching the search criteria, the application displays relevant information including:
+Country name
+Capital
+Currency code
+Currency symbol
+
+**4. Error Handling:** If the entered currency code does not match any countries in the dataset, the application provides an error message informing the user that the entered currency code is incorrect. It also provides a link to a document containing correct currency codes for reference.
+
+**5. Responsive Design:** The user interface is likely designed to be responsive, allowing users to access and interact with the application across different devices and screen sizes.
+
+Overall, the project provides a simple and intuitive interface for users to search and view information about countries based on their currency codes, with error handling and a reference document for correct currency codes.
+
+## Screenshots
+
+
+
