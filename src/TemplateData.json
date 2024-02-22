@@ -1,0 +1,193 @@
+[
+  {
+    "name": "Germany",
+    "capital": "Berlin",
+    "currency": "EUR",
+    "currencySymbol": "€",
+    "flag": "https://flagsapi.com/DE/flat/64.png"
+  },
+  {
+    "name": "United States",
+    "capital": "Washington, D.C.",
+    "currency": "USD",
+    "currencySymbol": "$",
+    "flag": "https://flagsapi.com/US/flat/64.png"
+  },
+  {
+    "name": "Canada",
+    "capital": "Ottawa",
+    "currency": "CAD",
+    "currencySymbol": "$",
+    "flag": "https://flagsapi.com/CA/flat/64.png"
+  },
+  {
+    "name": "United Kingdom",
+    "capital": "London",
+    "currency": "GBP",
+    "currencySymbol": "£",
+    "flag": "https://flagsapi.com/GB/flat/64.png"
+  },
+  {
+    "name": "Australia",
+    "capital": "Canberra",
+    "currency": "AUD",
+    "currencySymbol": "$",
+    "flag": "https://flagsapi.com/AU/flat/64.png"
+  },
+  {
+    "name": "France",
+    "capital": "Paris",
+    "currency": "EUR",
+    "currencySymbol": "€",
+    "flag": "https://flagsapi.com/FR/flat/64.png"
+  },
+  {
+    "name": "China",
+    "capital": "Beijing",
+    "currency": "CNY",
+    "currencySymbol": "¥",
+    "flag": "https://flagsapi.com/CN/flat/64.png"
+  },
+  {
+    "name": "India",
+    "capital": "New Delhi",
+    "currency": "INR",
+    "currencySymbol": "₹",
+    "flag": "https://flagsapi.com/IN/flat/64.png"
+  },
+  {
+    "name": "Japan",
+    "capital": "Tokyo",
+    "currency": "JPY",
+    "currencySymbol": "¥",
+    "flag": "https://flagsapi.com/JP/flat/64.png"
+  },
+  {
+    "name": "Brazil",
+    "capital": "Brasília",
+    "currency": "BRL",
+    "currencySymbol": "R$",
+    "flag": "https://flagsapi.com/BR/flat/64.png"
+  },
+  {
+    "name": "Vietnam",
+    "capital": "Hanoi",
+    "currency": "VND",
+    "currencySymbol": "₫",
+    "flag": "https://flagsapi.com/VN/flat/64.png"
+  },
+  {
+    "name": "South Africa",
+    "capital": "Pretoria",
+    "currency": "ZAR",
+    "currencySymbol": "R",
+    "flag": "https://flagsapi.com/ZA/flat/64.png"
+  },
+  {
+    "name": "Thailand",
+    "capital": "Bangkok",
+    "currency": "THB",
+    "currencySymbol": "฿",
+    "flag": "https://flagsapi.com/TH/flat/64.png"
+  },
+  {
+    "name": "Mexico",
+    "capital": "Mexico City",
+    "currency": "MXN",
+    "currencySymbol": "$",
+    "flag": "https://flagsapi.com/MX/flat/64.png"
+  },
+  {
+    "name": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "currency": "MYR",
+    "currencySymbol": "RM",
+    "flag": "https://flagsapi.com/MY/flat/64.png"
+  },
+  {
+    "name": "Italy",
+    "capital": "Rome",
+    "currency": "EUR",
+    "currencySymbol": "€",
+    "flag": "https://flagsapi.com/IT/flat/64.png"
+  },
+  {
+    "name": "Turkey",
+    "capital": "Ankara",
+    "currency": "TRY",
+    "currencySymbol": "₺",
+    "flag": "https://flagsapi.com/TR/flat/64.png"
+  },
+  {
+    "name": "Philippines",
+    "capital": "Manila",
+    "currency": "PHP",
+    "currencySymbol": "₱",
+    "flag": "https://flagsapi.com/PH/flat/64.png"
+  },
+  {
+    "name": "Pakistan",
+    "capital": "Islamabad",
+    "currency": "PKR",
+    "currencySymbol": "₨",
+    "flag": "https://flagsapi.com/PK/flat/64.png"
+  },
+  {
+    "name": "Indonesia",
+    "capital": "Jakarta",
+    "currency": "IDR",
+    "currencySymbol": "Rp",
+    "flag": "https://flagsapi.com/ID/flat/64.png"
+  },
+  {
+    "name": "Nigeria",
+    "capital": "Abuja",
+    "currency": "NGN",
+    "currencySymbol": "₦",
+    "flag": "https://flagsapi.com/NG/flat/64.png"
+  },
+  {
+    "name": "Bangladesh",
+    "capital": "Dhaka",
+    "currency": "BDT",
+    "currencySymbol": "৳",
+    "flag": "https://flagsapi.com/BD/flat/64.png"
+  },
+  {
+    "name": "Egypt",
+    "capital": "Cairo",
+    "currency": "EGP",
+    "currencySymbol": "£",
+    "flag": "https://flagsapi.com/EG/flat/64.png"
+  },
+  {
+    "name": "Iraq",
+    "capital": "Baghdad",
+    "currency": "IQD",
+    "currencySymbol": "ع.د",
+    "flag": "https://flagsapi.com/IQ/flat/64.png"
+  },
+  {
+    "name": "Morocco",
+    "capital": "Rabat",
+    "currency": "MAD",
+    "currencySymbol": "د.م.",
+    "flag": "https://flagsapi.com/MA/flat/64.png"
+  },
+  {
+    "name": "Kenya",
+    "capital": "Nairobi",
+    "currency": "KES",
+    "currencySymbol": "KSh",
+    "flag": "https://flagsapi.com/KE/flat/64.png"
+  },
+  {
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "currency": "ARS",
+    "currencySymbol": "$",
+    "flag": "https://flagsapi.com/EG/flat/64.png"
+  }
+]
+
+  
