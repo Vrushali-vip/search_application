@@ -32,6 +32,8 @@ Instructions on how to install the project, including any dependencies that need
 ```bash
 $ https://github.com/Vrushali-vip/search_application.git
 $ cd search_application
+$ npm install react-scripts
+$ npm install -g npm@latest
 $ npm start  # or yarn start
 
 ```
