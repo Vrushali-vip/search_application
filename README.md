@@ -53,9 +53,7 @@ Currency symbol
 Clear Search:
 
 **3. To clear the search** and view all countries, simply delete the currency code from the search bar.
-```
 
-```
 ## Features
 **1. Search by Currency Code:** Users can input a currency code (e.g., INR, EUR) into the search bar to filter countries based on the entered currency code.
 
@@ -67,7 +65,7 @@ Capital
 Currency code
 Currency symbol
 
-**4. Error Handling:** If the entered currency code does not match any countries in the dataset, the application provides an error message informing the user that the entered currency code is incorrect. It also provides a link to a document containing correct currency codes for reference.
+**4. Error Handling:** If the entered currency code does not match any countries in the dataset, **the application provides an error message informing the user that the entered currency code is incorrect. It also provides a link to a document containing correct currency codes for reference.**
 
 **5. Responsive Design:** The user interface is likely designed to be responsive, allowing users to access and interact with the application across different devices and screen sizes.
 
