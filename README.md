@@ -24,7 +24,6 @@ Overall, the project aims to provide a user-friendly interface for searching and
 - [Usage](#usage)
 - [Features](#features)
 - [Screenshots](#screenshots)
-- [License](#license)
 
 ## Installation
 
