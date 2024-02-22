@@ -72,9 +72,25 @@ Currency symbol
 
 **5. Responsive Design:** The user interface is likely designed to be responsive, allowing users to access and interact with the application across different devices and screen sizes.
 
+**6. Additional Feature:** Currency symbols are added as extra feature.
+
 Overall, the project provides a simple and intuitive interface for users to search and view information about countries based on their currency codes, with error handling and a reference document for correct currency codes.
 
 ## Screenshots
+# Homepage
+![image](https://github.com/Vrushali-vip/search_application/assets/71547087/6e7a0f04-8b6d-4fef-9a63-acd9281a27fb)
+# Search Result
+![image](https://github.com/Vrushali-vip/search_application/assets/71547087/18c945e4-7451-4ab0-b2df-8a8bb354ab99)
+# Responsive Design
+![image](https://github.com/Vrushali-vip/search_application/assets/71547087/9647c6f8-e91c-4b8d-a5b9-b5c35ce38ab1)
+# Mobile view
+![image](https://github.com/Vrushali-vip/search_application/assets/71547087/abe7fc22-df90-4902-b284-00662806cffd)
+# If search does not match
+![image](https://github.com/Vrushali-vip/search_application/assets/71547087/83f15fc8-43de-41b1-bc7b-647e519e0a92)
+
+
+
+
 
 
 
